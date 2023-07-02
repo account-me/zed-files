@@ -361,6 +361,7 @@ i
 .ribbon-top-left {
     top: -10px;
     left: 10px;
+    border-radius: 5px;
 }
 .ribbon-top-left::before,
 .ribbon-top-left::after {
