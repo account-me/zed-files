@@ -360,6 +360,7 @@
             $.each(products, function(index, product) {
                 var newProducts = '<div class="col-sm-6 col-md-4 col-lg-3 p-b-35 ' + product.category + '">';
                     newProducts     += '<div class="block2">';
+		    newProducts		+= '<div style="'+ if(product.isOffer == 1){'+ display:block; +'}else{ + 'display:none;' + } +'" class="ribbon ribbon-top-left"><span>خـصـم  20 %</span></div>';
                     newProducts         += '<div class="block2-pic hov-img0">';
                     newProducts             += '<a href="product-detail.php?id='+product.id+'" style="display:block; height:100%;"><img src="'+product.images[0]+'" alt="IMG-PRODUCT"></a>';
                     newProducts         += '</div>';
