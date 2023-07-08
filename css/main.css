@@ -274,8 +274,8 @@ i
 
 .filter-cat-active
 {
-  color: #717fe0 !important;
-  border-color: #717fe0 !important;
+  color: #483d8b !important;
+  border-color: #483d8b !important;
 }
 
 .small-img
@@ -482,7 +482,7 @@ i
 .loader05 {
   width: 56px;
   height: 56px;
-  border: 4px solid #717fe0;
+  border: 4px solid #483d8b;
   border-radius: 50%;
   position: relative;
   animation: loader-scale 1s ease-out infinite;
@@ -853,7 +853,7 @@ i
   min-width: 15px;
   height: 15px;
   padding: 0 3px;
-  background-color: #717fe0;
+  background-color: #483d8b;
 }
 
 /*---------------------------------------------*/
@@ -1085,7 +1085,7 @@ i
 .main-menu-m {
   padding-top: 10px;
   padding-bottom: 10px;
-  background-color: #717fe0;
+  background-color: #483d8b;
 }
 
 .main-menu-m > li > a {
@@ -2004,7 +2004,7 @@ button.mfp-close {
 }
 
 .swal-button {
-  background-color: #717fe0;
+  background-color: #483d8b;
   font-family: Droid, Poppins-Regular;
   font-size: 16px;
   color: white;
@@ -2091,8 +2091,8 @@ button.mfp-close {
 
 .show-search:hover:after,
 .show-filter:hover:after {
-  background-color: #717fe0;
-  border-color: #717fe0;
+  background-color: #483d8b;
+  border-color: #483d8b;
 }
 
 /*---------------------------------------------*/
@@ -2502,7 +2502,7 @@ input.num-product::-webkit-inner-spin-button {
     TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 ==================================================================*/
 .cl0 {color: #fff;}
-.cl1 {color: #717fe0;}
+.cl1 {color: #483d8b;}
 .cl2 {color: #141414;}
 .cl3 {color: #c4c4c4;}
 .cl4 {color: #c1c1c1;}
@@ -3485,8 +3485,8 @@ input.num-product::-webkit-inner-spin-button {
 
 /*---------------------------------------------*/
 .hov-tag1:hover {
-  color: #717fe0;
-  border-color: #717fe0;
+  color: #483d8b;
+  border-color: #483d8b;
 }
 
 
