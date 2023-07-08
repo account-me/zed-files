@@ -342,7 +342,7 @@ i
   z-index: -1;
   content: '';
   display: block;
-  border: 5px solid #9d1c01;
+  border: 5px solid #8b0707;
 }
 .ribbon span {
     position: absolute;
@@ -602,7 +602,7 @@ i
 }
 
 .right-top-bar a:hover {
-  color: #483d8b;
+  color: #5749a8;
 }
 
 
@@ -788,7 +788,7 @@ i
 /*---------------------------------------------*/
 .main-menu > li:hover > a {
   text-decoration: none;
-  color: #483d8b;
+  color: #5749a8;
 }
 
 .main-menu > li:hover > .sub-menu {
@@ -806,7 +806,7 @@ i
 }
 
 .sub-menu > li:hover > a {
-  color: #483d8b;
+  color: #5749a8;
   text-decoration: none;
 }
 
@@ -927,7 +927,7 @@ i
 }
 
 .wrap-search-header button:hover {
-  color: #483d8b;
+  color: #5749a8;
 }
 
 /*---------------------------------------------*/
@@ -1476,7 +1476,7 @@ i
 }
 
 .rs1-select2 .select2-container--default .select2-selection--single .select2-selection__arrow:hover:after {
-  color: #483d8b;
+  color: #5749a8;
 }
 
 
@@ -1616,7 +1616,7 @@ i
 }
 
 .arrow-slick1:hover {
-  color: #483d8b;
+  color: #5749a8;
 }
 
 .next-slick1 {
@@ -1645,7 +1645,7 @@ i
 }
 
 .rs2-slick1 .arrow-slick1:hover {
-  color: #483d8b;
+  color: #5749a8;
 }
 
 .wrap-slick1-dots {
@@ -2091,8 +2091,8 @@ button.mfp-close {
 
 .show-search:hover:after,
 .show-filter:hover:after {
-  background-color: #483d8b;
-  border-color: #483d8b;
+  background-color: #5749a8;
+  border-color: #5749a8;
 }
 
 /*---------------------------------------------*/
@@ -2108,8 +2108,8 @@ button.mfp-close {
 }
 
 .filter-link:hover {
-  color: #483d8b;
-  border-bottom: 1px solid #483d8b;
+  color: #5749a8;
+  border-bottom: 1px solid #5749a8;
 }
 
 .filter-link-active {
@@ -3429,8 +3429,8 @@ input.num-product::-webkit-inner-spin-button {
 
 .hov-cl0:hover {color: #fff;}
 .hov-bg0:hover {background-color: #fff;}
-.hov-cl1:hover {color: #483d8b;}
-.hov-bg1:hover {background-color: #483d8b;}
+.hov-cl1:hover {color: #5749a8;}
+.hov-bg1:hover {background-color: #5749a8;}
 
 /*---------------------------------------------*/
 .hov-img0 {
@@ -3469,13 +3469,13 @@ input.num-product::-webkit-inner-spin-button {
 .hov-btn2:hover {
   border-color: #fff;
   background-color: #fff;
-  color: #483d8b;
+  color: #5749a8;
 }
 
 /*---------------------------------------------*/
 .hov-btn3:hover {
-  border-color: #483d8b;
-  background-color: #483d8b;
+  border-color: #5749a8;
+  background-color: #5749a8;
   color: #fff;
 }
 
@@ -3485,8 +3485,8 @@ input.num-product::-webkit-inner-spin-button {
 
 /*---------------------------------------------*/
 .hov-tag1:hover {
-  color: #483d8b;
-  border-color: #483d8b;
+  color: #5749a8;
+  border-color: #5749a8;
 }
 
 
@@ -3518,7 +3518,7 @@ input.num-product::-webkit-inner-spin-button {
 
 /*---------------------------------------------*/
 .hov1:hover {
-  color: #483d8b;
+  color: #5749a8;
   border-color: #797979;
 }
 
