@@ -2437,15 +2437,16 @@ input.num-product::-webkit-inner-spin-button {
 
 .title-box
 {
-    line-height: 1.5em;
-    height: 3em;
-    overflow: hidden;
-    margin-bottom: 5px;
+  overflow: hidden;
+  margin-bottom: 5px;
+  text-wrap: nowrap;
+  color: white;
 }
 
 /*---------------------------------------------*/
 .block2-txt-child1 {
-  width: calc(100% - 30px);
+  width: 100%;
+  overflow: hidden;
 }
 
 .block2-txt-child2 {
