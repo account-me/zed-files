@@ -1,10 +1,10 @@
 
 (function ($) {
     "use strict";
-
+	var colorCode;
 	$.getJSON("https://dbzed.serv00.net/colors.json", function(json) {
 		console.log(json);
-    		var colorCode = json;
+    		colorCode = json;
     		//access your JSON file through the variable "json"
 	});
     
