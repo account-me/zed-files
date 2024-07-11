@@ -1,4 +1,7 @@
 {
-    "red":"#RRRRRR",
-    "yallow":"#YYYYYY"
+    "red": "#RRRRRR",
+    "yallow": "#YYYYYY",
+    "0": {
+        "blue": "#mare"
+    }
 }
