@@ -2,7 +2,7 @@
 (function ($) {
     "use strict";
 	var colorCode;
-	$.getJSON("https://zed-store.vercel.app/colors.json", function(json) {
+	$.getJSON("https://dbzed.serv00.net/colors.json", function(json) {
 		console.log(json);
     		colorCode = json;
     		//access your JSON file through the variable "json"
