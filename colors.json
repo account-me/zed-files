@@ -1,27 +1,4 @@
 {
-    "name": "colors.json",
-    "path": "colors.json",
-    "sha": "b008696e28650c576ebcfcd3db4575f9986594c5",
-    "size": 897,
-    "url": "https:\/\/api.github.com\/repos\/account-me\/zed-files\/contents\/colors.json?ref=main",
-    "html_url": "https:\/\/github.com\/account-me\/zed-files\/blob\/main\/colors.json",
-    "git_url": "https:\/\/api.github.com\/repos\/account-me\/zed-files\/git\/blobs\/b008696e28650c576ebcfcd3db4575f9986594c5",
-    "download_url": "https:\/\/raw.githubusercontent.com\/account-me\/zed-files\/main\/colors.json",
-    "type": "file",
-    "content": "eyJuYW1lIjoiY29sb3JzLmpzb24iLCJwYXRoIjoiY29sb3JzLmpzb24iLCJz\naGEiOiI3NTM4Yzk0ODE2MWMxMzM0OWNlZDZjZDM0N2RjZjA1Y2ZlYThlMTA4\nIiwic2l6ZSI6MjAsInVybCI6Imh0dHBzOlwvXC9hcGkuZ2l0aHViLmNvbVwv\ncmVwb3NcL2FjY291bnQtbWVcL3plZC1maWxlc1wvY29udGVudHNcL2NvbG9y\ncy5qc29uP3JlZj1tYWluIiwiaHRtbF91cmwiOiJodHRwczpcL1wvZ2l0aHVi\nLmNvbVwvYWNjb3VudC1tZVwvemVkLWZpbGVzXC9ibG9iXC9tYWluXC9jb2xv\ncnMuanNvbiIsImdpdF91cmwiOiJodHRwczpcL1wvYXBpLmdpdGh1Yi5jb21c\nL3JlcG9zXC9hY2NvdW50LW1lXC96ZWQtZmlsZXNcL2dpdFwvYmxvYnNcLzc1\nMzhjOTQ4MTYxYzEzMzQ5Y2VkNmNkMzQ3ZGNmMDVjZmVhOGUxMDgiLCJkb3du\nbG9hZF91cmwiOiJodHRwczpcL1wvcmF3LmdpdGh1YnVzZXJjb250ZW50LmNv\nbVwvYWNjb3VudC1tZVwvemVkLWZpbGVzXC9tYWluXC9jb2xvcnMuanNvbiIs\nInR5cGUiOiJmaWxlIiwiY29udGVudCI6ImV5SjVaV3hzYjNjaU9pSWpSa1pH\nUmpBd0luMD1cbiIsImVuY29kaW5nIjoiYmFzZTY0IiwiX2xpbmtzIjp7InNl\nbGYiOiJodHRwczpcL1wvYXBpLmdpdGh1Yi5jb21cL3JlcG9zXC9hY2NvdW50\nLW1lXC96ZWQtZmlsZXNcL2NvbnRlbnRzXC9jb2xvcnMuanNvbj9yZWY9bWFp\nbiIsImdpdCI6Imh0dHBzOlwvXC9hcGkuZ2l0aHViLmNvbVwvcmVwb3NcL2Fj\nY291bnQtbWVcL3plZC1maWxlc1wvZ2l0XC9ibG9ic1wvNzUzOGM5NDgxNjFj\nMTMzNDljZWQ2Y2QzNDdkY2YwNWNmZWE4ZTEwOCIsImh0bWwiOiJodHRwczpc\nL1wvZ2l0aHViLmNvbVwvYWNjb3VudC1tZVwvemVkLWZpbGVzXC9ibG9iXC9t\nYWluXC9jb2xvcnMuanNvbiJ9LCIwIjp7InJlZCI6IiNGRFNTRkRTIn19\n",
-    "encoding": "base64",
-    "_links": {
-        "self": "https:\/\/api.github.com\/repos\/account-me\/zed-files\/contents\/colors.json?ref=main",
-        "git": "https:\/\/api.github.com\/repos\/account-me\/zed-files\/git\/blobs\/b008696e28650c576ebcfcd3db4575f9986594c5",
-        "html": "https:\/\/github.com\/account-me\/zed-files\/blob\/main\/colors.json"
-    },
-    "0": {
-        "red": "#FDSSFDS"
-    },
-    "1": {
-        "red": "#FDSSFDS"
-    },
-    "2": {
-        "blue": "#mare"
-    }
+    "red":"#RRRRRR",
+    "yallow":"#YYYYYY"
 }
