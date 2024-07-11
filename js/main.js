@@ -2,7 +2,7 @@
 (function ($) {
     "use strict";
 	var colorCode;
-	$.getJSON("https://dbzed.serv00.net/colors.json", function(json) {
+	$.getJSON("https://raw.githubusercontent.com/account-me/zed-files/main/colors.json", function(json) {
 		console.log(json);
     		colorCode = json;
     		//access your JSON file through the variable "json"
